@@ -24,30 +24,24 @@
 
 	</nav>
 </header>
-<section id="signup-button">
-
-</section>
+<section>
+	Sorry! Site is currently under maintenance
+	We will back soon.
 
 <footer>
 	<div class="fb-like-page">
-		<div>
-			<a href="http://www.facebook.com/olivecode" target="_blank"><img src="/assets/img/front/facebook-label.jpg" alt="facebook-label"></a>
-			<div class="fb-page" data-href="https://www.facebook.com/olivecode" data-width="500" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/olivecode"><a href="https://www.facebook.com/olivecode">OliveCode</a></blockquote></div></div>
-		</div>
+
 	</div>
 
 	<nav>
 		<ul>
-			<li><a href="/students/contactforum">Contact Us</a></li>
 
-			<li><a href="/contact">Contact Us</a></li>
-
-			<li><a href="/privacy">Privacy Policy</a></li>
-			<li><a href="/terms">Agreement</a></li>
-			<li><a href="http://www.edoo.co.jp/" class="blank">Operating Company</a></li>
 		</ul>
 	</nav>
-	<p class="copyright">© 2015 Edoo Inc. All rights reserved.</p>
+	<p class="copyright">
+		© 2015 Vandolph Capacio Reyes<br>
+		All rights reserved
+	</p>
 </footer>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </body>
