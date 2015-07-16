@@ -15,6 +15,7 @@
 	<meta property="og:image" content="http://www.olivecode.com/assets/img/front/logo_front.png?1423213936">
 	<meta property="og:site_name" content="OliveCode">
 	<link href='https://fonts.googleapis.com/css?family=Raleway:400,700,600,500,800,900,300,100,200' rel='stylesheet' type='text/css'>
+	<link href='assets/css/common.css' rel='stylesheet' type='text/css'>
 
 	<title>Vandolph Reyes | Vandolph Capacio Reyes Personal Website / Portfolio</title>
 </head>
@@ -25,9 +26,11 @@
 	</nav>
 </header>
 <section>
-	Sorry! Site is currently under maintenance
-	We will back soon.
-
+	<div class="maintenance">
+		Sorry! Site is currently under maintenance. <br>
+		It will be back soon.
+	</div>
+</section>
 <footer>
 	<div class="fb-like-page">
 
