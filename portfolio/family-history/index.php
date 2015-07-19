@@ -29,7 +29,7 @@
 	</div>
 	<div id="forms" class="signup">
 		<form class="form-signin">
-			<h2 class="form-signin-heading">Please Sign Up for FREE</h2>
+			<h2 class="form-signin-heading">Please Sign Up for FREE now</h2>
 			<div class="input-group">
 				<span class="input-group-addon" id="basic-addon1">Firstname</span>
 				<input type="text" class="form-control" aria-describedby="basic-addon1">
