@@ -26,10 +26,11 @@
 	</nav>
 </header>
 <section>
-	<div class="maintenance">
+	<p class="maintenance">
 		Sorry! Site is currently under maintenance. <br>
 		It will be back soon.
-	</div>
+		<span>But you can still view my <a href="portfolio/">portfolios.</span>
+	</p>
 </section>
 <footer>
 	<div class="fb-like-page">

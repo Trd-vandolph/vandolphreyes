@@ -62,7 +62,7 @@
 				<span class="input-group-addon" id="basic-addon1">Password</span>
 				<input type="text" class="form-control" aria-describedby="basic-addon1">
 			</div>
-        	<button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+        	<button class="btn btn-lg btn-primary btn-block" type="submit">Sign Up</button>
         	
       </form>
 	</div>
