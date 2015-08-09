@@ -30,6 +30,11 @@
 		Sorry! Site is currently under maintenance. <br>
 		It will be back soon.
 	</div>
+	<div class="resume">
+		<a class="view" href="http://www.vandolphreyes.zz.mu/resume" target="_blank">View Resume</a>
+		<p>or</p>
+		<a class="download" href="http://www.vandolphreyes.zz.mu/resume/download/vandolphreyesresume.pdf" download="vandolphreyesresume.pdf">Download Resume</a>
+	</div>
 </section>
 <footer>
 	<div class="fb-like-page">
