@@ -5,6 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="Generator" content="CV Maker - https://cvmkr.com/" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300&subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+	<link href='../assets/css/common.css' rel='stylesheet' type='text/css'>
 	<style type="text/css">
 		body {
 			background: #f0f0f0;
@@ -313,7 +314,9 @@ University<br />09339813011                           �
 					</div>
 			<div class="clear"> </div>
 		</div>
-		
-</div>	
+		<div class="resume">
+			<a class="download" href="http://www.vandolphreyes.zz.mu/resume/download/vandolphreyesresume.pdf" download="vandolphreyesresume.pdf">Download Resume</a>
+		</div>
+</div>
 </body>
 </html>
