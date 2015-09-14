@@ -54,5 +54,12 @@
 	</p>
 </footer>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+	function pulse() {
+	    $('.view').animate({'opacity':'0'}, 100);
+	    $('.view').animate({'opacity':'1'}, 1000);
+	}
+	setInterval(pulse, 1000);
+</script>
 </body>
 </html>
