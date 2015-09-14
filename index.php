@@ -49,7 +49,7 @@
 		</ul>
 	</nav>
 	<p class="copyright">
-		© 2015 Vandolph Capacio Reyes<br>
+		© <?php echo date('Y');?> Vandolph Capacio Reyes<br>
 		All rights reserved
 	</p>
 </footer>
