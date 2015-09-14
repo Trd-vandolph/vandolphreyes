@@ -3,17 +3,17 @@
 <head>
 	<meta charset="UTF-8">
 
-  	<meta name="keywords" content="OliveCode,Online Computer Programming Course,Job Guaranteed,WordPress,HTML,CSS,Programming,Git,JavaScript,Bangladesh,Private Lesson,Edoo" />
-  	<meta name="description" content="OliveCode is the job guaranteed online computer programming course for Bangladeshi. It is a private lesson in English for 4 months, followed by 2-month internship at an IT company." />
+	<meta name="keywords" content="Vandolph Capacio Reyes, Jonnavel E. Reyes, Nathaniel E. Reyes, Reyes Family, Vandolph Reyes, VCR, ITBOYS, I.TBOYSSWU, IT-BOYS SWU, I.TBOYS, SWU Southwestern Universitry" />
+	<meta name="description" content="Vandolph Capacio Reyes, Jonnavel E. Reyes, Nathaniel E. Reyes, Reyes Family, Vandolph Reyes, VCR, ITBOYS, I.TBOYSSWU, IT-BOYS SWU, I.TBOYS, SWU Southwestern Universitry" />
 
 	<link rel="shortcut icon" href="assets/img/me.ico">
 	<meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable = no">
 
-	<meta property="og:title" content="Olive code | Job Guaranteed Online Computer Programming Course for Bangladeshi">
-	<meta property="og:description" content="OliveCode is the job guaranteed online computer programming course for Bangladeshi. It is a private lesson in English for 4 months, followed by 2-month internship at an IT company.">
-	<meta property="og:url" content="http://www.olivecode.com/">
-	<meta property="og:image" content="http://www.olivecode.com/assets/img/front/logo_front.png?1423213936">
-	<meta property="og:site_name" content="OliveCode">
+	<meta property="og:title" content="Vandolph Capacio Reyes, Jonnavel E. Reyes, Nathaniel E. Reyes, Reyes Family, Vandolph Reyes, VCR, ITBOYS, I.TBOYSSWU, IT-BOYS SWU, I.TBOYS, SWU Southwestern Universitry">
+	<meta property="og:description" content="Vandolph Capacio Reyes, Jonnavel E. Reyes, Nathaniel E. Reyes, Reyes Family, Vandolph Reyes, VCR, ITBOYS, I.TBOYSSWU, IT-BOYS SWU, I.TBOYS, SWU Southwestern Universitry">
+	<meta property="og:url" content="http://www.vandolphreyes.zz.mu/">
+	<meta property="og:image" content="http://www.vandolphreyes.zz.mu/assets/img/me.ico">
+	<meta property="og:site_name" content="Vandolph">
 	<link href='https://fonts.googleapis.com/css?family=Raleway:400,700,600,500,800,900,300,100,200' rel='stylesheet' type='text/css'>
 	<link href='assets/css/common.css' rel='stylesheet' type='text/css'>
 
@@ -56,4 +56,3 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </body>
 </html>
-

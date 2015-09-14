@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Vandolph Reyes</title>
+	<title>My CV</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="Generator" content="CV Maker - https://cvmkr.com/" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300&subset=latin,latin-ext" rel="stylesheet" type="text/css" />
-	<link href='../assets/css/common.css' rel='stylesheet' type='text/css'>
 	<style type="text/css">
 		body {
 			background: #f0f0f0;
@@ -218,12 +217,12 @@
 		
 							<p class="address">
 					<span class="value">
-						615 GG Aznar Rd.<br />Urgello St. Sambag II<br />Cebu City, Philippines, 6000					</span>
+						A Del Rosario St.<br />Barangay Guizo, Mandue City,<br />Cebu, Philippines, 6000					</span>
 				</p>
 						<div class="r">
 									<p class="email"><span class="value">Email: vandolphreyes29@gmail.com</span></p>
 				
-									<p class="website"><span class="value">Website: vandolphreyes.zz.mu</span></p>
+									<p class="website"><span class="value">Website: <a href="http://www.vandolphreyes.zz.mu" rel="nofollow">http://www.vandolphreyes.zz.mu</a> Skype ID: vandolphreyes29</span></p>
 				
 									<p class="phone"><span class="value">Phone: 0933 044 5456</span></p>
 							</div>
@@ -258,7 +257,7 @@ additional skills and experience."</span>
 							</h3>
 							<span class="clear"> </span>
 							<span class="job_title">Software Engineer / Web Developer / Programming Tutor</span><span class="info"><ul><li>Building Websites from PSD to WordPress</li><li>Building Websites from PSD to HTML</li><li>Responsive Websites using WordPress</li><li>Converting HTML to WordPress Website</li><li>Building Websites using PHP Frameworks (more on FUELPHP)</li><li>Game Development using Enchant.js</li><li>Building Responsive Websites from Scratch
-using HTML5, CSS3, JavaScript, jQuery and PHP</li><li>Editing designs using Fireworks and Photoshop</li><li>Created a textbook about HTML5, CSS3, WordPress, JavaScript/jQuery and Game Development using Echant.js</li><li>Online Programming Class Teacher</li><li>Team Leader of Online Programming Class</li></ul></span><span class="clear"> </span>
+using HTML5, CSS3, JavaScript, jQuery and PHP</li><li>Editing designs using Fireworks and Photoshop</li><li>Created a textbook about HTML5, CSS3, WordPress, JavaScript/jQuery and Game Development using Echant.js</li><li>Online Programming Class Teacher</li><li>Team Leader of Online Programming Class</li><li>Front-End Development using SenseNet/ASP.Net</li></ul></span><span class="clear"> </span>
 							</div>
 						</div>
 			<div class="clear"> </div>
@@ -294,8 +293,7 @@ Treasurer</li></ul></span><span class="clear"> </span>
 Learner</li><li> Knowledgeable
 in all computer stuffs including hardware and software.</li><li> Ability to work with several operating
 systems, including Windows, Mac OSX and Linux</li></ul><br />Knowledgeable of the Following:<br /><br /><ul><li>HTML5, CSS3,
-JavaScript, PHP<br /></li><li>JQuery, Enchant.js</li><li>PDO, MySQLi</li><li>WordPress, FuelPHP</li><li>MySQL, MsSQL</li><li>Github / Git Bash</li><li>CS3, Sony Vegas</li><li>Microsoft Applications</li><li>Eclipse IDE
-Software</li><li>Titanium Software</li><li>VB 6.0, VB.net</li></ul></span>
+JavaScript, PHP<br /></li><li>JQuery, Enchant.js</li><li>PDO, MySQLi</li><li>WordPress, FuelPHP</li><li>MySQL, MsSQL</li><li>Github / Git Bash</li><li>CS3, Sony Vegas</li><li>Microsoft Applications</li><li>Eclipse IDE, Visual Studio 2013</li><li>Titanium Software</li><li>VB 6.0, VB.net</li><li>ASP.NET / Sensenet</li></ul></span>
 						</div>
 					</div>
 			<div class="clear"> </div>
@@ -313,11 +311,9 @@ University                                              �
 University<br />09339813011                                                                         (032) 415-5555                                                                    09175441379</span>
 						</div>
 					</div>
+			<div class="clear"> </div>
 		</div>
-	<div class="resume">
-		<a class="download" href="http://www.vandolphreyes.zz.mu/resume/download/vandolphreyesresume.pdf" download="vandolphreyesresume.pdf">Download Resume</a>
-	</div>
+		
 </div>	
-
 </body>
 </html>
