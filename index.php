@@ -33,21 +33,12 @@
 	</p>
 	</div>
 	<div class="resume">
-		<a class="view" href="http://www.vandolphreyes.zz.mu/resume" target="_blank">View Resume</a>
+		<a class="view" href="http://vandolphreyes.16mb.com/resume/" target="_blank">View Resume</a>
 		<p>or</p>
-		<a class="download" href="http://www.vandolphreyes.zz.mu/resume/download/vandolphreyesresume.pdf" download="vandolphreyesresume.pdf">Download Resume</a>
+		<a class="download" href="http://vandolphreyes.16mb.com/resume/download/vandolphreyesresume.pdf" download="vandolphreyesresume.pdf">Download Resume</a>
 	</div>
 </section>
 <footer>
-	<div class="fb-like-page">
-
-	</div>
-
-	<nav>
-		<ul>
-
-		</ul>
-	</nav>
 	<p class="copyright">
 		© <?php echo date('Y');?> Vandolph Capacio Reyes<br>
 		All rights reserved
